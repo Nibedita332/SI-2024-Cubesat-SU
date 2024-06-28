@@ -4,13 +4,13 @@ Repositary for summer internship 2024 "Intro to Cubesat and Satelite Communicati
 # LAB EXERCISES 
 
 ## LAB-1 INTRODUCTION TO ESP32
-
+- [Data Sheet ESP32](https://github.com/silicon-sat/SI-2024-CubeSat/blob/main/docs/Datasheet-ESP32.pdf)
 ###  LAB-2 BLINKING LED
 - TO DISLAY THE CURRENT DIRECTORY TYPE PWD
     - THIS IS THE SUBSECTION
     - ANOTHER 
 
-###  LAB-3 DIMMING LED
+####  LAB-3 DIMMING LED
 Parameters from the LED datasheet
 |  parameters | value |
 |------------|----------|
